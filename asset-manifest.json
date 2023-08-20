@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Frontend-Task-Eight/static/css/main.ed67000f.css",
+    "main.js": "/Frontend-Task-Eight/static/js/main.5946db37.js",
+    "static/media/iPhone Specs.png": "/Frontend-Task-Eight/static/media/iPhone Specs.6827b57a7239d5a9fea1.png",
+    "static/media/iPhone_14_Pro_Max_Deep_Purple.png": "/Frontend-Task-Eight/static/media/iPhone_14_Pro_Max_Deep_Purple.6c70312ad17cf2c98bba.png",
+    "static/media/iPhone_14_Pro_Max_Gold.png": "/Frontend-Task-Eight/static/media/iPhone_14_Pro_Max_Gold.053394f4e2f49a01eb32.png",
+    "static/media/iPhone_14_Pro_Max_Silver.png": "/Frontend-Task-Eight/static/media/iPhone_14_Pro_Max_Silver.94b88839985b3f98953d.png",
+    "static/media/iPhone_14_Pro_Max_Space_Black.png": "/Frontend-Task-Eight/static/media/iPhone_14_Pro_Max_Space_Black.8c26f07ee8ef8856cce3.png",
+    "index.html": "/Frontend-Task-Eight/index.html",
+    "main.ed67000f.css.map": "/Frontend-Task-Eight/static/css/main.ed67000f.css.map",
+    "main.5946db37.js.map": "/Frontend-Task-Eight/static/js/main.5946db37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed67000f.css",
+    "static/js/main.5946db37.js"
+  ]
+}
