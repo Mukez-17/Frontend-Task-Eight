@@ -1,0 +1,83 @@
+.main{
+    display: flex;
+    align-items: center;
+    padding: 60px 75px;
+    background-color: #000;
+    min-height: 91.5vh;
+}
+
+.col{
+    flex-basis: 50%;
+}
+
+.col1{
+    margin-left: 75px;
+}
+
+.col h4{
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.col .text{
+    color: pink;
+    font-size: 5rem;
+    font-weight: 500;
+    background:none;
+    outline: none;
+    border: none;
+    appearance: none;
+    background-image: linear-gradient(180deg, pink, purple);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: text;
+}
+
+.col .btn{
+    border: 1px solid purple;
+    color: white;
+    background: linear-gradient(125deg, rgb(161, 2, 161), rgb(246, 191, 200));
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.col p{
+    position: absolute;
+    margin-top: -22px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 50px;
+}
+
+.main-image{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: -100px;
+    transition: opacity 0.4s;
+}
+
+img.is-active{
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.col .buttons{
+    margin-left: 200px;
+    margin-top: -15px;
+}
+
+.items-button{
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: 4.8px;
+    border: 1px solid #000;
+    padding: 2px;
+}
+
+img{
+    width: 50%;
+    height: 600px;
+}
